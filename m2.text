@@ -19,3 +19,30 @@ libraries and modules
  time datetime
 
  download external
+
+ stykle guide guidelines for programming 
+ create consistency
+ code read and  notvwritten oftenly
+ comments what code is doing
+ indention -improves readability 
+
+ string funticon
+ len- how many characters a string has 
+ method - 
+ upper 
+ lower
+ index -position of character in a string
+ slice -start and end  
+
+stringgs immutable -cannot be changed
+list -store multiple data in a single variable
+
+list concatutnation -addimg together
+
+list can be added and removed 
+insert (position , what you want to add )
+algorithm -steps that solve a problem
+regex -sequence of characters that form a pattern 
+ 
+
+  

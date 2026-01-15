@@ -45,3 +45,6 @@ names=["jess","francy","anna","kaz"]
 print(sorted(names))
 print(names)
 
+print (len("tess"))
+print("Hello".index("l"))
+
