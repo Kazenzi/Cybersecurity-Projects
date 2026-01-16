@@ -44,5 +44,27 @@ insert (position , what you want to add )
 algorithm -steps that solve a problem
 regex -sequence of characters that form a pattern 
  
+ Automate tasks in cid
+ variablesconditional statemets
+ funstions
+ strings tecniques
+ list techniquws
+
+
+ always review log files
+import
+ with -handles error and manages resources
+ open open files 
+ with open("login.yxt,"r) as file
+
+ read -files into strings 
+
+ parse -data in readable format 
+  split 
+   string into a list 
+   
+
+
+
 
   
