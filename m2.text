@@ -62,8 +62,10 @@ import
  parse -data in readable format 
   split 
    string into a list 
-   
 
+logic and syntatx error exception errors
+ debbuging  know the purpose of the code
+ name eror exception
 
 
 
